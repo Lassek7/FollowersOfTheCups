@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FollowersOfTheCups</string>
+    <string name="usernameLogin">Enter Username</string>
+    <string name="passwordLogin">Enter Password</string>
+    <string name="passwordRepeat">Repeat Password</string>
+    <string name="loginButton">Login</string>
+    <string name="newUserButton">No account?</string>
+    <string name="supremeCreate">Are you currently supreme?</string>
+    <string name="supremeRankCreate">What is your rank?</string>
+    <string name="emailCreate">Enter email</string>
+    <string name="createUserButton">Create</string>
+</resources>

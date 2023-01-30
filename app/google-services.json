@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "202479173238",
+    "firebase_url": "https://followersapp-58cf7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "followersapp-58cf7",
+    "storage_bucket": "followersapp-58cf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202479173238:android:c3c1b8a2eddd696c6b2957",
+        "android_client_info": {
+          "package_name": "com.example.followersofthecups"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202479173238-gsl20oki5apbilr0vhsbi7ea0791e5dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIAOXmBh7VUorqvQNyCmUv--jPCN1zrIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202479173238-gsl20oki5apbilr0vhsbi7ea0791e5dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
